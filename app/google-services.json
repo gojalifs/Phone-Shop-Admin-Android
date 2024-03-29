@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579334375068",
+    "project_id": "javacell-77ec0",
+    "storage_bucket": "javacell-77ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579334375068:android:0b5d17043a43e7948acf59",
+        "android_client_info": {
+          "package_name": "com.ngapak.dev.javacell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579334375068-4hi8p5nok4p38g66qmglc60pcl00423j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngapak.dev.javacell",
+            "certificate_hash": "b2dea226ce7a933b20cd2b34980ff65f915e06c9"
+          }
+        },
+        {
+          "client_id": "579334375068-vd5vmnfh0ctooc9c5ovviile524r3a05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFYUQExnJECM2IAFiTFadeoadw3GyN28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579334375068-vd5vmnfh0ctooc9c5ovviile524r3a05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
